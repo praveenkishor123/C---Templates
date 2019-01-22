@@ -1,8 +1,7 @@
 # Description
 1. Template is simple and yet very powerful tool in C++. 
-2. The simple idea is to pass data type as a parameter so that we don’t need to write same code for different data types. 
-
-For example a software company may need sort() for different data types. Rather than writing and maintaining the multiple codes, we can write one sort() and pass data type as a parameter.
+2. The simple idea is to pass data type as a parameter so that we don’t need to write same code for different data types.
+3. For example a software company may need sort() for different data types. Rather than writing and maintaining the multiple codes, we can write one sort() and pass data type as a parameter.
 
 - C++ adds two new keywords to support templates: ‘template’ and ‘typename’. 
 - The second keyword can always be replaced by keyword ‘class’.
