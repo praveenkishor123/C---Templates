@@ -33,3 +33,8 @@ Each instance of a template contains its own static variable.
 
 ## What is template specialization?
 Template specialization allows us to have different code for a particular data type.
+
+## List of programs
+* Bubble sort - https://github.com/praveenkishor123/CPlusPlusTemplates/blob/master/bubbleSortUsingTemplate.cpp
+* Find max in two numbers - https://github.com/praveenkishor123/CPlusPlusTemplates/blob/master/findMax.cpp
+* Swap two numbers - https://github.com/praveenkishor123/CPlusPlusTemplates/blob/master/swapTwoNumbers.cpp
